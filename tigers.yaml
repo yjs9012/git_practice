@@ -2,11 +2,7 @@ team: Tigers
 
 manager: Kenneth
 
-<<<<<<< HEAD
-coach: Brenda
-=======
 coach: Ruth
->>>>>>> to_merge
 
 members:
 - Linda
@@ -14,3 +10,4 @@ members:
 - David
 - Geroge
 - Tyler
+- Park
